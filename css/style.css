@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+text-red{
+    color: red;
+}
+
+h1{
+    font-size: 3rem;
+}
+
+@import url("./style_devN.css");
+@import url("./style_devDuc.css");
